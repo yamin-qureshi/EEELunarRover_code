@@ -1,4 +1,4 @@
-// this code combines the original movement component with the magnetometer reading
+// integrates magnetometer code
 #define USE_WIFI_NINA         false
 #define USE_WIFI101           true
 #include <WiFiWebServer.h>
