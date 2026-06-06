@@ -86,9 +86,9 @@ void loop()
 
   String verticalDirection;
   if (magData.z < 0) {
-    verticalDirection = "Downward";
-  } else {
     verticalDirection = "Upward";
+  } else {
+    verticalDirection = "Downward";
   }
 
   Serial.print("Vertical direction: "); Serial.println(verticalDirection);
