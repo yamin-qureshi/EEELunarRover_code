@@ -1,4 +1,4 @@
-// integrate Age of rock
+// integrate UI
 #define USE_WIFI_NINA         false
 #define USE_WIFI101           true
 #include <WiFiWebServer.h>
